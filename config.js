@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'youtube',
       icon: 'youtube',
-      link: 'https://youtube.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
